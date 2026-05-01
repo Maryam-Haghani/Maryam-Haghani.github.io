@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal website! I am Maryam Haghani, a Ph.D. student in the Department of Computer Science at Virginia Polytechnic Institute and State University (Virginia Tech). My research focuses on computational systems biology.
+Welcome to my personal website! I am Maryam Haghani, a Ph.D. candidate in the Department of Computer Science at Virginia Polytechnic Institute and State University (Virginia Tech). My research focuses on computational systems biology.
 
 I am passionate about solving real-world problems at the intersection of computer science and biology. I have extensive experience in software engineering, and my current research aims to develop innovative solutions for computational biology and bioinformatics.
 

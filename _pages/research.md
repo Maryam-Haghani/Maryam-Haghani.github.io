@@ -3,7 +3,7 @@ title: "My Research"
 permalink: /research/
 author_profile: true
 ---
-Welcome to my research page. I am a Ph.D. student in Computer Science specializing in Computational Biology.
+Welcome to my research page. I am a Ph.D. candidate in Computer Science specializing in Computational Biology.
 
 ## Research Interests
 - Computational Biology and Bioinformatics
